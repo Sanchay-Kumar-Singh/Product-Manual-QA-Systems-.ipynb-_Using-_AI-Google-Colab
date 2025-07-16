@@ -1,3 +1,6 @@
+Product Manual Question Answer System
+![image alt](https://github.com/Sanchay-Kumar-Singh/Product-Manual-QA-Systems-.ipynb-_Using-_AI-Google-Colab/blob/8cc8ab14b57855ee2c896d38e5300bfd3375062f/Screenshot%202025-07-16%20222722.png)
+
 🎯 1. Introduction
 This project is titled "Product Manual Question Answering System using RAG with Python and AI".
 It aims to build an intelligent assistant that can read, understand, and answer questions from PDF-based product manuals.
